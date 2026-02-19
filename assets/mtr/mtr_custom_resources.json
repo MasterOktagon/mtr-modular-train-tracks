@@ -114,10 +114,10 @@
 			"id": "modular_tram_track_3rd_rail_inverted",
 			"name": "3rd Rail §8(inverted)",
 			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/3rd_rail.obj",
+			"modelResource": "mtrsteamloco:rails/3rd_rail_inverted.obj",
 			"repeatInterval": 0.5,
 			"flipTextureV": true,
-			"flipH": true
+			"flipV": false
 		},
 		{
 			"id": "modular_tram_track_cables",
