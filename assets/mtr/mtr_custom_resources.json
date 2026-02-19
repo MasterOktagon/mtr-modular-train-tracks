@@ -1,0 +1,184 @@
+{
+	"vehicles": [],
+	"signs": [],
+	"rails": [
+		{
+			"id": "modular_tram_track_tram_rails",
+			"name": "Tram Rails",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/tramrails.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_rusty_tram_rails",
+			"name": "Rusty tram rails",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/rusty_tramrails.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_tram_rails_with_gutter",
+			"name": "Tram Rails with gutter",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/tramrails_gutter.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_counter_rails",
+			"name": "Counter Rails",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/counterrails.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_wooden_sleepers",
+			"name": "Wooden Sleepers",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/woodensleepers.obj",
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_rubber_sleepers",
+			"name": "Rubber Sleepers",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/rubbersleepers.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_iron_v_sleepers",
+			"name": "Iron V Sleepers",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/ironsleepers.obj",
+			"repeatInterval": 1.0,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_concrete_sleepers",
+			"name": "Concrete Sleepers",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/concretesleepers.obj",
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_cobblestone_cover",
+			"name": "Cobblestone Cover",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/cobblestone_cover.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_asphalt_cover",
+			"name": "Asphalt Cover",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/asphalt_cover.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_brick_cover",
+			"name": "Brick Cover",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/brick_cover.obj",
+			"repeatInterval": 0.47,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_3rd_rail",
+			"name": "3rd Rail",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/3rd_rail.obj",
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_3rd_rail_inverted",
+			"name": "3rd Rail §8(inverted)",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/3rd_rail.obj",
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipH": true
+		},
+		{
+			"id": "modular_tram_track_cables",
+			"name": "Cables",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/cables.obj",
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_maintenance_walkway",
+			"name": "Maintenance Walkway",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/maintenance_walkway.obj",
+			"repeatInterval": 2,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_maintenance_walkway_inverted",
+			"name": "Maintenance Walkway §8(inverted)",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/maintenance_walkway.obj",
+			"repeatInterval": 2,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_msd_rigid_catenary_height_4",
+			"name": "MSD rigid catenary §8(Height 4)",
+			"color": "000000",
+			"modelResource": "mtrsteamloco:rails/rigid_catenary_node_4.obj",
+			"repeatInterval": 7,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_msd_rigid_catenary_height_5",
+			"name": "MSD rigid catenary §8(Height 5)",
+			"color": "000000",
+			"modelResource": "mtrsteamloco:rails/rigid_catenary_node_5.obj",
+			"repeatInterval": 7,
+			"flipTextureV": true,
+			"flipV": false
+		}
+		],
+	"objects": [
+	    {
+			"id": "modular_tram_track_buffe_stop",
+			"name": "Buffer stop",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/bufferstop.obj",
+			"flipTextureV": true
+		},
+	    {
+			"id": "modular_tram_track_counter_rail_end",
+			"name": "Counter Rail End",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/counterrail_end.obj",
+			"flipTextureV": true
+		}
+	]
+}

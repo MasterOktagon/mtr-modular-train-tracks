@@ -1,0 +1,9 @@
+# Made in Blockbench 5.0.7
+newmtl m_518dbbc7-cc67-0f12-4819-c682436934a8
+Ns 1000.000000
+Ks 1.000000 1.000000 1.000000
+map_Kd tracks1.png
+map_Ks tracks1_s.png
+#map_Ns tracks1_s.png
+illum 5
+newmtl none
