@@ -120,6 +120,24 @@
 			"flipV": false
 		},
 		{
+			"id": "modular_tram_track_bare_3rd_rail",
+			"name": "Bare 3rd Rail",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/bare_3rd_rail.obj",
+			"repeatInterval": 2,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_bare_3rd_rail_inverted",
+			"name": "Bare 3rd Rail §8(inverted)",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/bare_3rd_rail_inverted.obj",
+			"repeatInterval": 2,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
 			"id": "modular_tram_track_cables",
 			"name": "Cables",
 			"color": "00A4E3",
