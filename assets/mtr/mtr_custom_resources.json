@@ -138,6 +138,15 @@
 			"flipV": false
 		},
 		{
+			"id": "modular_tram_track_bare_4th_rail",
+			"name": "4th Rail",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/4th_rail.obj",
+			"repeatInterval": 2,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
 			"id": "modular_tram_track_cables",
 			"name": "Cables",
 			"color": "00A4E3",
@@ -189,6 +198,20 @@
 			"name": "Buffer stop",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:objects/bufferstop.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_3rd_rail_segment",
+			"name": "3rd Rail Segment",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/3rd_rail.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_4th_rail_segment",
+			"name": "4th Rail Segment",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/4th_rail.obj",
 			"flipTextureV": true
 		},
 	    {
