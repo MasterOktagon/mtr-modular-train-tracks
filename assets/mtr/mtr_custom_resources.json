@@ -34,7 +34,25 @@
 			"name": "Counter Rails",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:rails/counterrails.obj",
-			"repeatInterval": 0.47,
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_check_rail",
+			"name": "Check Rail",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/check_rail.obj",
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_check_rail_inverted",
+			"name": "Check Rail §8(inverted)",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/check_rail_inverted.obj",
+			"repeatInterval": 0.5,
 			"flipTextureV": true,
 			"flipV": false
 		},
@@ -70,6 +88,15 @@
 			"name": "Concrete Sleepers",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:rails/concretesleepers.obj",
+			"repeatInterval": 0.5,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_concrete_sleepers_worn",
+			"name": "Concrete Sleepers §8(worn)",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/worn_concrete_sleepers.obj",
 			"repeatInterval": 0.5,
 			"flipTextureV": true,
 			"flipV": false
@@ -160,7 +187,7 @@
 			"name": "Maintenance Walkway",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:rails/maintenance_walkway.obj",
-			"repeatInterval": 2,
+			"repeatInterval": 1.9,
 			"flipTextureV": true,
 			"flipV": false
 		},
@@ -169,7 +196,25 @@
 			"name": "Maintenance Walkway §8(inverted)",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:rails/maintenance_walkway.obj",
-			"repeatInterval": 2,
+			"repeatInterval": 1.9,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_walkway_railing",
+			"name": "Walkway Railing",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/walkway_railing.obj",
+			"repeatInterval": 1.9,
+			"flipTextureV": true,
+			"flipV": false
+		},
+		{
+			"id": "modular_tram_track_walkway_railing_inverted",
+			"name": "Walkway Railing §8(inverted)",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:rails/walkway_railing_inverted.obj",
+			"repeatInterval": 1.9,
 			"flipTextureV": true,
 			"flipV": false
 		},
