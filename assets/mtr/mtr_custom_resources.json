@@ -4,7 +4,7 @@
 	"rails": [
 		{
 			"id": "modular_tram_track_tram_rails",
-			"name": "Tram Rails",
+			"name": "Rails",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:rails/tramrails.obj",
 			"repeatInterval": 0.47,
@@ -13,18 +13,9 @@
 		},
 		{
 			"id": "modular_tram_track_rusty_tram_rails",
-			"name": "Rusty tram rails",
+			"name": "Rusty rails",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:rails/rusty_tramrails.obj",
-			"repeatInterval": 0.47,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_tram_rails_with_gutter",
-			"name": "Tram Rails with gutter",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/tramrails_gutter.obj",
 			"repeatInterval": 0.47,
 			"flipTextureV": true,
 			"flipV": false
@@ -66,15 +57,6 @@
 			"flipV": false
 		},
 		{
-			"id": "modular_tram_track_rubber_sleepers",
-			"name": "Rubber Sleepers",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/rubbersleepers.obj",
-			"repeatInterval": 0.47,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
 			"id": "modular_tram_track_iron_v_sleepers",
 			"name": "Iron V Sleepers",
 			"color": "00A4E3",
@@ -102,74 +84,11 @@
 			"flipV": false
 		},
 		{
-			"id": "modular_tram_track_cobblestone_cover",
-			"name": "Cobblestone Cover",
+			"id": "modular_tram_track_noise_dampener",
+			"name": "Noise dampener",
 			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/cobblestone_cover.obj",
-			"repeatInterval": 0.47,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_asphalt_cover",
-			"name": "Asphalt Cover",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/asphalt_cover.obj",
-			"repeatInterval": 0.47,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_brick_cover",
-			"name": "Brick Cover",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/brick_cover.obj",
-			"repeatInterval": 0.47,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_3rd_rail",
-			"name": "3rd Rail",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/3rd_rail.obj",
-			"repeatInterval": 2,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_3rd_rail_inverted",
-			"name": "3rd Rail §8(inverted)",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/3rd_rail_inverted.obj",
-			"repeatInterval": 2,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_bare_3rd_rail",
-			"name": "Bare 3rd Rail",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/bare_3rd_rail.obj",
-			"repeatInterval": 2,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_bare_3rd_rail_inverted",
-			"name": "Bare 3rd Rail §8(inverted)",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/bare_3rd_rail_inverted.obj",
-			"repeatInterval": 2,
-			"flipTextureV": true,
-			"flipV": false
-		},
-		{
-			"id": "modular_tram_track_bare_4th_rail",
-			"name": "4th Rail",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/4th_rail.obj",
-			"repeatInterval": 2,
+			"modelResource": "mtrsteamloco:rails/noise_dampener.obj",
+			"repeatInterval": 0.5,
 			"flipTextureV": true,
 			"flipV": false
 		},
@@ -245,25 +164,67 @@
 			"modelResource": "mtrsteamloco:objects/bufferstop.obj",
 			"flipTextureV": true
 		},
-		{
-			"id": "modular_tram_track_3rd_rail_segment",
-			"name": "3rd Rail Segment",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/3rd_rail.obj",
-			"flipTextureV": true
-		},
-		{
-			"id": "modular_tram_track_4th_rail_segment",
-			"name": "4th Rail Segment",
-			"color": "00A4E3",
-			"modelResource": "mtrsteamloco:rails/4th_rail.obj",
-			"flipTextureV": true
-		},
 	    {
 			"id": "modular_tram_track_counter_rail_end",
 			"name": "Counter Rail End",
 			"color": "00A4E3",
 			"modelResource": "mtrsteamloco:rails/counterrail_end.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_1",
+			"name": "Switch Frog §8№ 1",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_1.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_2_6",
+			"name": "Switch Frog §8№ 2,6",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_2_6.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_3",
+			"name": "Switch Frog §8№ 3",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_3.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_4",
+			"name": "Switch Frog §8№ 4",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_4.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_5",
+			"name": "Switch Frog §8№ 5",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_5.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_7",
+			"name": "Switch Frog §8№ 7",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_7.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_10",
+			"name": "Switch Frog §8№ 10",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_10.obj",
+			"flipTextureV": true
+		},
+		{
+			"id": "modular_tram_track_switch_frog_no_13",
+			"name": "Switch Frog §8№ 13",
+			"color": "00A4E3",
+			"modelResource": "mtrsteamloco:objects/frog_13.obj",
 			"flipTextureV": true
 		}
 	]

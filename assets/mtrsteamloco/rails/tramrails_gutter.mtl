@@ -1,8 +1,0 @@
-# Made in Blockbench 5.0.7
-newmtl m_37665f59-9ce4-ecfe-69ff-e11675bf8041
-Ns 1000.000000
-Ks 1.000000 1.000000 1.000000
-map_Kd gutter_rails.png
-map_Ks gutter_rails_s.png
-illum 5
-newmtl none

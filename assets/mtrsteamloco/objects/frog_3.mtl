@@ -1,0 +1,8 @@
+# Made in Blockbench 5.1.4
+newmtl m_91a973be-b3ab-e74e-8f72-4f51a5d70715
+map_Kd check_rail.png
+newmtl m_37665f59-9ce4-ecfe-69ff-e11675bf8041
+map_Kd gutter_rails.png
+newmtl m_edfc3752-85eb-bc8c-c115-3b8740015289
+map_Kd rusty_tracks.png
+newmtl none
